@@ -3,7 +3,6 @@
 ![Durum](https://img.shields.io/badge/Durum-Aktif-success.svg)
 ![Dil](https://img.shields.io/badge/Dil-C%23-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20Forms-lightgrey.svg)
-![Lisans](https://img.shields.io/badge/Lisans-MIT-green.svg)
 
 **Burs Bulma Sistemi**, üniversite öğrencilerinin kendilerine uygun bursları kolayca bulup başvurabilmelerini; kurumların ise burs ilanı verip başvuruları yönetebilmelerini sağlayan bir Windows Forms masaüstü uygulamasıdır.
 
