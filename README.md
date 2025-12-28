@@ -113,7 +113,3 @@ Proje, temiz kod ve **OOP (Nesne Yönelimli Programlama)** prensipleri üzerine 
 
 ---
 
-
-## 📞 İletişim
-
-Geliştirici: **[Adınız Soyadınız]** GitHub: [@kullaniciadi](https://github.com/kullaniciadi)  
