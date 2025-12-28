@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projeburs", "projeburs\projeburs.csproj", "{F6D5C83A-31D3-4A23-BE36-7EDA33B37E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bursbulma", "bursbulma\bursbulma.csproj", "{7C73D014-2E1F-4914-80FF-B27462F50FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D5C83A-31D3-4A23-BE36-7EDA33B37E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D5C83A-31D3-4A23-BE36-7EDA33B37E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D5C83A-31D3-4A23-BE36-7EDA33B37E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D5C83A-31D3-4A23-BE36-7EDA33B37E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C73D014-2E1F-4914-80FF-B27462F50FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C73D014-2E1F-4914-80FF-B27462F50FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C73D014-2E1F-4914-80FF-B27462F50FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C73D014-2E1F-4914-80FF-B27462F50FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61800F50-B5B1-4B2E-A942-C12E28268CD4}
+	EndGlobalSection
+EndGlobal
